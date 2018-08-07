@@ -1,2 +1,2 @@
 # Hello!
-This is a github made to practice github from the command line
+This is a github made to practice git from the command line
